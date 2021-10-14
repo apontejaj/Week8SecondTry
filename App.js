@@ -6,7 +6,7 @@ import ScreenOne from './ScreenOne';
 import ScreenTwo from './ScreenTwo';
 
 const Stack = createNativeStackNavigator();
-
+//comment a bit more interesting
 export default function App() {
   return (
     <NavigationContainer>
